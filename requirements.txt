@@ -1,0 +1,10 @@
+# Requirements for FOQEE_CHECKLIST_GENERATOR
+# -------------------------------
+openai==1.54.4
+pandas==2.0.3
+numpy==1.25.0
+termcolor==2.5.0
+pylint==3.3.1
+openpyxl==3.0.9
+requests
+# -------------------------------
